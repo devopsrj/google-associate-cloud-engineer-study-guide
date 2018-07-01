@@ -1,6 +1,6 @@
 # Associate Cloud Engineer Study Guide
 
-![GCP Logo](https://cloud.google.com/_static/c3460225a3/images/cloud/cloud-logo.svg)
+![GCP Logo](./images/gcp-logo.svg)
 
 https://gcpstudy.gitbook.io/google-associate-cloud-engineer/
 
